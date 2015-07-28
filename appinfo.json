@@ -1,0 +1,48 @@
+{
+    "appKeys": {
+        "KEY_CONDITIONS": 1,
+        "KEY_TEMPERATURE": 0
+    },
+    "capabilities": [
+        "location"
+    ],
+    "companyName": "Jeffrey Ventures",
+    "longName": "FunTime AwesomeFace",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/mush2.png",
+                "menuIcon": true,
+                "name": "IMAGE_MUSHROOM",
+                "type": "png"
+            },
+            {
+                "file": "fonts/Roboto-Bold.ttf",
+                "name": "FONT_ROBOTO_BOLD_17",
+                "type": "font"
+            },
+            {
+                "file": "fonts/Roboto-Bold.ttf",
+                "name": "FONT_ROBOTO_BOLD_52",
+                "type": "font"
+            },
+            {
+                "file": "images/mushroom-background.png",
+                "name": "IMAGE_MUSHROOM_BACKGROUND",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "FTAwesomeFace",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "uuid": "0a79a2d9-2804-4234-82df-dc8b3a052e17",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
